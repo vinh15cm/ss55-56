@@ -1,0 +1,64 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "title": "tiêu đề 1",
+      "content": "nội dung 1",
+      "thumbmail": "hình ảnh 1",
+      "created_by": "Nguyễn Quang Vinh",
+      "comments": []
+    },
+    {
+      "id": 2,
+      "title": "tiêu đề 2",
+      "content": "nội dung 2",
+      "thumbmail": "hình ảnh 2",
+      "created_by": "Nguyễn Quang Vinh 2",
+      "comments": []
+    },
+    {
+      "id": 3,
+      "title": "tiêu đề 3",
+      "content": "nội dung 3",
+      "thumbmail": "hình ảnh 3",
+      "created_by": "Nguyễn Quang Vinh 3",
+      "comments": []
+    },
+    {
+      "id": 4,
+      "title": "tiêu đề 4",
+      "content": "nội dung 4",
+      "thumbmail": "hình ảnh 4",
+      "created_by": "Nguyễn Quang Vinh 4",
+      "comments": []
+    },
+    {
+      "id": 5,
+      "title": "tiêu đề 5",
+      "content": "nội dung 5",
+      "thumbmail": "hình ảnh 5",
+      "created_by": "Nguyễn Quang Vinh 5",
+      "comments": []
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "content": "abc",
+      "created": "06/06/2024",
+      "crreated_by": "Nguyễn Quang Vinh"
+    },
+    {
+      "id": 2,
+      "content": "xyz",
+      "created": "07/06/2024",
+      "crreated_by": "Nguyễn Quang Vinh 2"
+    },
+    {
+      "id": 1,
+      "content": "qwe",
+      "created": "08/06/2024",
+      "crreated_by": "Nguyễn Quang Vinh 3"
+    }
+  ]
+}
